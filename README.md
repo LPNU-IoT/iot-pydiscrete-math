@@ -1,6 +1,6 @@
 # PyDiscreteMath
 
-This repository was created to store algorithms for solving problems in discrete mathematics in a programming language (in this case Python).
+This repository was created to store algorithms for solving problems in discrete mathematics in a programming language (in this case Python) during the IoT course in LPNU.
 
 
 
